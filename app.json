@@ -1,0 +1,12 @@
+{
+  "name": "foodfinger",
+  "displayName": "foodfinger",
+  "expo": {
+    "name": "foodfinger",
+    "slug": "foodfinger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
